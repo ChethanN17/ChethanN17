@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chethan</h1>
+<h1 align="center">Hi 👋, I'm Chethan N</h1>
 <!-- <h3 align="center">A passionate fullstack developer</h3> -->
 
 - 🌱 I’m currently learning **React Native**
