@@ -37,6 +37,9 @@
 <a href="https://reactjs.org/" title="React">
   <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/dev/react.svg">
 </a>
+<a href="https://reactnative.dev/" title="React Native">
+  <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/dev/react.svg">
+</a>
 <a href="https://flutter.dev/" title="Flutter">
   <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg">
 </a>
