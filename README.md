@@ -61,10 +61,10 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanN17&theme=tokyonight) -->
 
 <div> 
-  <a href="https://github-readme-stats.vercel.app/api?username=ChethanN17&count_private=true&show_icons=true&theme=tokyonight">
+<!--   <a href="https://github-readme-stats.vercel.app/api?username=ChethanN17&count_private=true&show_icons=true&theme=tokyonight">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ChethanN17&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanN17&hide=php&theme=tokyonight">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanN17&hide=php&theme=tokyonight" />
-  </a>
+  </a> -->
 </div>
